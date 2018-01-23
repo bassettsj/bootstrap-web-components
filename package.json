@@ -1,0 +1,15 @@
+{
+  "name": "bootstrap-web-components",
+  "version": "0.0.0",
+  "description": "Bootstrap Web Components made with stencil",
+  "author": "Steven Bassett",
+  "license": "MIT",
+  "private": true,
+  "lock": false,
+  "workspaces": [
+    "packages/*"
+  ],
+  "devDependencies": {
+    "lerna": "^2.7.1"
+  }
+}
